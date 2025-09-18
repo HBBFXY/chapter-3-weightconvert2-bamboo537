@@ -1,4 +1,4 @@
-current_earth_weight=float(input("请输入你当前在地球上的体重（kg):"))
+current_earth_weight=float(input("请输入你当前在地球上的体重(kg):"))
 moon_ratio=0.165
 annual_gain=0.5
 years=10
