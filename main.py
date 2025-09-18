@@ -1,6 +1,6 @@
 current_earth_weight=float(input("请输入你当前在地球上的体重（kg):"))
 moon_ratio=0.165
-annual_gain=0.510
+annual_gain=0.5
 years=10
 print ("未来10年地球和月球体重变化:")
 for year in range (1,years +1):
